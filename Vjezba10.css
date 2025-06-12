@@ -1,0 +1,24 @@
+@charset "utf-8";
+p {
+	color: darkblue;
+	line-height: 18px;
+	width: 600px;
+	background-color: beige;
+	padding: 30px;
+}
+h1, h2 {
+	font-family: Times new roman, "serif";
+	color:darkblue
+}
+body {
+	background-image: url(slike1/preuzmi.jpeg); 
+	<width: 1000;
+}
+a {
+	background-color: lightyellow;
+	padding: 10px;
+	border: 1px solid black;
+}
+a:hover {
+	background-color: orange;
+}
